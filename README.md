@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-<img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Heelflip.gif" width="400" />
+<img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Heelflip.gif" width="200" />
 
 </pre>
 </td>
