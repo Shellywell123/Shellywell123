@@ -3,9 +3,11 @@
 <table>
 <tr>
 <td>
-
-<img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Heelflip.gif" width="200" />
-
+  
+<a href="https://github.com/Shellywell123/SKanimATE">
+  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Heelflip.gif" width="200" />
+</a>
+  
 </pre>
 </td>
 <td>
