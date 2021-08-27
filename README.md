@@ -13,7 +13,7 @@
 <td>
   
 <a href="https://shellywell123.github.io/PyCrystallography/index.html">
-   <img src="PyCrystallography/Images/face_normals_tetrakis-transparent.gif" width="200" />
+   <img src="https://github.com/Shellywell123/PyCrystallography/blob/gh-pages/PyCrystallography/Images/face_normals_tetrakis-transparent.gif" width="200" />
 </a>
 
 </pre>
