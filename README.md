@@ -5,7 +5,7 @@
 <td>
   
 <a href="https://github.com/Shellywell123/SKanimATE">
-  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Heelflip.gif" width="200" />
+  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Inward%20Heelflip.gif" width="200" />
 </a>
   
 </pre>
