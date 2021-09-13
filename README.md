@@ -13,7 +13,7 @@
 <td>
   
 <a href="https://shellywell123.github.io/Grind_Boy/build/web/index.html">
-  <img src="https://github.com/Shellywell123/Grind_Boy/blob/master/assets/git/preview.gif" width="200" />
+  <img src="https://github.com/Shellywell123/Grind_Boy/blob/main/assets/git/preview.gif" width="200" />
 </a>
   
 </pre>
