@@ -34,3 +34,10 @@
 </td>
 </tr>
 </table>
+
+<a href="https://github.com/shellywell123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellywell123&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/harry-whorlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shellywell123&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shellywell123's GitHub Stats" />
+</a>
