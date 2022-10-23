@@ -28,8 +28,8 @@
 </td>
 <td>
 
-<a href="https://github.com/Shellywell123/Solar_System">>
-   <img src="https://github.com/Shellywell123/Solar_System/blob/master/Images/gifs/spiralout.gif" width="800" />
+<a href="https://github.com/Shellywell123/Solar_System">
+   <img src="https://github.com/Shellywell123/Solar_System/blob/master/Images/gifs/spiralout.gif" width="200" />
 </a>
 
 
