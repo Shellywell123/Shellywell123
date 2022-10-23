@@ -29,7 +29,7 @@
 <td>
 
 <a >
-   <img src="https://github-readme-stats.vercel.app/api?username=shellywell123&show_icons=true&theme=merko" width="400" />
+   <img src="https://github-readme-stats.vercel.app/api?username=shellywell123&show_icons=true&theme=merko" width="600" />
 </a>
 
 
