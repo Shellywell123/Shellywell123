@@ -37,11 +37,7 @@
 </tr>
 </table>
 
-[![.NET]](https://dotnet.microsoft.com ".NET")  
-[![Docker]](https://www.docker.com "Docker") 
-[![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  
-[![Node.js]](https://nodejs.org "Node.js")  
-[![Python]](https://www.python.org "Python")  
+[![.NET]](https://dotnet.microsoft.com ".NET") [![Docker]](https://www.docker.com "Docker") [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  [![Node.js]](https://nodejs.org "Node.js")  [![Python]](https://www.python.org "Python")  
 
 [.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=512BD4&logoColor=ffffff&logo=dot-net
 [AdonisJS]: https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&labelColor=ffffff&logoColor=220052&logo=adonisjs
