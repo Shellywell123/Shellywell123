@@ -37,4 +37,4 @@
 </tr>
 </table>
 
-[Python](https://img.shields.io/badge/Python-3-blueviolet)[C#](https://img.shields.io/badge/C%23-.NET-blue)
+![Python](https://img.shields.io/badge/Python-3-blueviolet) ![C#](https://img.shields.io/badge/C%23-.NET-blue)
