@@ -37,4 +37,4 @@
 </tr>
 </table>
 
-![Python](https://img.shields.io/badge/Python-3-blueviolet) ![C#](https://img.shields.io/badge/C%23-.NET-blue) ![AWS](https://img.shields.io/badge/AWS-Certified%20Practionioner%20-orange) ![LaTex](https://img.shields.io/badge/LaTex-%20-yellow)
+![Python](https://img.shields.io/badge/Python-3-blueviolet) ![C#](https://img.shields.io/badge/C%23-.NET-brightgreen) ![AWS](https://img.shields.io/badge/AWS-Certified%20Practionioner%20-orange) ![DOS](https://img.shields.io/badge/DOS-BAT%2FCMD-lightgrey) ![LaTex](https://img.shields.io/badge/LaTex-%20-yellow)
