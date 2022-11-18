@@ -1,15 +1,10 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <table>
 <tr>
 <td>
   
 <a href="https://github.com/Shellywell123/SKanimATE">
-  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Inward%20Heelflip.gif" width="175" />
+  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Inward%20Heelflip.gif" width="page-width"/4 />
 </a>
   
 </pre>
