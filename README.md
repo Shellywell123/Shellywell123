@@ -4,7 +4,7 @@
 <td>
   
 <a href="https://github.com/Shellywell123/SKanimATE">
-  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Inward%20Heelflip.gif" width=pagewidth/8 />
+  <img src="https://github.com/Shellywell123/SKanimATE/blob/master/Images/gifs/Nollie%20Inward%20Heelflip.gif" width "175" />
 </a>
   
 </pre>
