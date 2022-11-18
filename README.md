@@ -1,7 +1,11 @@
 
 
 <table>
-  border-style: none;
+  <style>
+td, th {
+   border: none!important;
+}
+</style>
 <tr>
 <td>
   
