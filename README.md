@@ -21,7 +21,7 @@
 <td>
 
 <a href="[https://github.com/Shellywell123/Solar_System](https://github.com/Shellywell123/Skate-3-Texture-Tools/)">
-   <img src="https://github.com/Shellywell123/Skate-3-Texture-Tools/blob/main/docs/Images/Custom_TShirt_RiseUp.png)" width="175" />
+   <img src="https://github.com/Shellywell123/Skate-3-Texture-Tools/blob/main/docs/Images/Custom_TShirt_RiseUp.png" width="175" />
 </a>
 
 
