@@ -12,8 +12,7 @@
 <td>
   
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
-  <img src="https://github.com/Shellywell123/ChessNut/blob/Master/assets/screenshots/capture01.gif" width="600" />
-</p>
+  <img src="https://github.com/Shellywell123/ChessNut/blob/Master/assets/screenshots/capture01.gif" width="175" />
 </a>
   
 </pre>
