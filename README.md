@@ -40,4 +40,4 @@
 </tr>
 </table>
 
-[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | ![AWS](https://img.shields.io/badge/AWS-Certified%20Practitioner%20-orange) 
+[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode)
