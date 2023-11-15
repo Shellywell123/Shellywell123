@@ -40,6 +40,4 @@
 </tr>
 </table>
 
-![Python](https://img.shields.io/badge/Python-3-blueviolet) ![C#](https://img.shields.io/badge/C%23-.NET-brightgreen) ![AWS](https://img.shields.io/badge/AWS-Certified%20Practitioner%20-orange) ![DOS](https://img.shields.io/badge/DOS-BAT%2FCMD-lightgrey) ![LaTex](https://img.shields.io/badge/LaTex-%20-yellow)
-
-[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode)
+[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | ![AWS](https://img.shields.io/badge/AWS-Certified%20Practitioner%20-orange) 
