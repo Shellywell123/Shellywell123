@@ -40,6 +40,4 @@
 </tr>
 </table>
 
-[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) <a href="https://github.com/shellywell123">
-    <img align="center" width="49%" src="./static/images/languages.svg" />
-</a>
+[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | [📈 metrics](https://github.com/Shellywell123/metrics/blob/main/metrics.md)
