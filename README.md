@@ -40,4 +40,4 @@
 </tr>
 </table>
 
-[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | [📈 GitHub Metrics](https://github.com/Shellywell123/metrics/blob/main/metrics.md)
+[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | [:octocat: GitHub Metrics](https://github.com/Shellywell123/metrics/blob/main/metrics.md) | [🔗 shellywell123.dev](https://shellywell123.dev)
