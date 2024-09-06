@@ -44,6 +44,6 @@
 
 
 <a href="(https://github.com/Shellywell123/metrics/blob/main/README.md">
-   <img src="[https://github.com/Shellywell123/PyCrystallography/blob/gh-pages/PyCrystallography/Images/face_normals_tetrakis-transparent.gif](https://github.com/Shellywell123/metrics/blob/output/github-contribution-grid-snake-dark.svg)" width="175" />
+   <img src="https://github.com/Shellywell123/metrics/blob/output/github-contribution-grid-snake-dark.svg" width="175" />
 </a>
 
