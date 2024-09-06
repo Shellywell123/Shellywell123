@@ -40,4 +40,10 @@
 </tr>
 </table>
 
-[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | [:octocat: GitHub Metrics](https://github.com/Shellywell123/metrics/blob/main/metrics.md) | [🔗 shellywell123.dev](https://shellywell123.dev)
+[🎮Game-Jams](https://github.com/Shellywell123/Game-Jams) | [⭐Advent-Of-Code](https://github.com/Shellywell123/AdventOfCode) | [:octocat: GitHub Metrics](https://github.com/Shellywell123/metrics/blob/main/README.md) | [🔗 shellywell123.dev](https://shellywell123.dev)
+
+
+<a href="(https://github.com/Shellywell123/metrics/blob/main/README.md">
+   <img src="[https://github.com/Shellywell123/PyCrystallography/blob/gh-pages/PyCrystallography/Images/face_normals_tetrakis-transparent.gif](https://github.com/Shellywell123/metrics/blob/output/github-contribution-grid-snake-dark.svg)" width="175" />
+</a>
+
